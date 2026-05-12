@@ -1,0 +1,11 @@
+{
+  "name": "farm2door",
+  "version": "1.0.0",
+  "description": "Farm2Door - Fresh from Farm to Your Hand",
+  "scripts": {
+    "setup": "cd server && npm install && cd ../client && npm install",
+    "seed": "cd server && npm run seed",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev"
+  }
+}

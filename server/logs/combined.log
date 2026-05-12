@@ -1,0 +1,8 @@
+2026-05-11 14:18:46 [[32minfo[39m]: 🤖 All AI Agents initialized and scheduled
+2026-05-11 14:18:46 [[32minfo[39m]: 🌱 Farm2Door server running on port 5000
+2026-05-11 14:18:46 [[32minfo[39m]: ✅ MongoDB Connected: localhost
+2026-05-11 14:20:39 [[31merror[39m]: Cannot read properties of null (reading 'items') - /api/cart - GET - ::1
+2026-05-11 14:21:37 [[31merror[39m]: Cannot read properties of null (reading 'items') - /api/cart - GET - ::1
+2026-05-11 14:23:18 [[31merror[39m]: Cannot read properties of null (reading 'items') - /api/cart - GET - ::1
+2026-05-11 14:23:34 [[31merror[39m]: Cannot read properties of null (reading 'items') - /api/cart - GET - ::1
+2026-05-11 14:24:13 [[31merror[39m]: Cannot read properties of null (reading 'items') - /api/cart - GET - ::1
