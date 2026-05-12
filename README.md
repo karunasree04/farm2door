@@ -1,6 +1,17 @@
 # 🌱 Farm2Door - Fresh from Farm to Your Hand
 
-A full-stack MERN production app for farm produce delivery — similar to BigBasket/Blinkit.
+A full-stack MERN production app for farm produce delivery.
+
+## Problem Statement
+
+Small-scale farmers often struggle to sell fresh produce directly to customers due to supply-chain inefficiencies, middlemen dependency, unpredictable pricing, and food wastage. Customers, on the other hand, face issues with freshness, price transparency, and availability of quality farm products.
+
+Farm2Door aims to bridge this gap by creating a smart farm-to-consumer platform that enables direct delivery of fresh produce while using AI-driven systems for pricing, demand forecasting, logistics optimization, and waste reduction.
+
+
+## Solution
+
+Farm2Door is a full-stack MERN platform that connects farmers, customers, delivery partners, and administrators through an intelligent multi-role ecosystem with real-time pricing, analytics, and AI-powered automation.
 
 ---
 
@@ -87,7 +98,6 @@ IF stock < 15 → anti-hoarding limits applied
 ## 🌐 Features
 
 - ✅ JWT Authentication + Role-based access
-- ✅ Smart cart with +/– buttons and badge
 - ✅ Real-time pricing engine
 - ✅ Pre-order & subscription baskets
 - ✅ Anti-hoarding limits
@@ -97,7 +107,6 @@ IF stock < 15 → anti-hoarding limits applied
 - ✅ Product recommendations, bestsellers, trending
 - ✅ Admin analytics dashboard with charts
 - ✅ 6 Agentic AI systems
-- ✅ 25+ seed products, 5 farmers, 12 orders
 - ✅ Mobile responsive UI
 
 ---
