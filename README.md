@@ -102,6 +102,4 @@ IF stock < 15 → anti-hoarding limits applied
 
 ---
 
-## 🏃 Running the Project
 
-See **HOW TO RUN** section below.
